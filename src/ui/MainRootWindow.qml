@@ -331,7 +331,7 @@ ApplicationWindow {
                             height:             toolSelectDialog._toolButtonHeight
                             Layout.fillWidth:   true
                             text:               qsTr("Application Settings")
-                            imageResource:      "/res/QGCLogoFull"
+                            imageResource:      "/res/VyoriusLogo"
                             imageColor:         "transparent"
                             visible:            !QGroundControl.corePlugin.options.combineSettingsAndSetup
                             onClicked: {
