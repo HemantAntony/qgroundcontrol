@@ -192,4 +192,6 @@ Item {
             anchors.fill:           parent
         }
     }
+
+    CustomGrid {}
 }

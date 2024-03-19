@@ -52,4 +52,5 @@ add_custom_target(FlightDisplayQml
 		VTOLChecklist.qml
         FlyViewBottomRightRowLayout.qml
         FlyViewTopRightColumnLayout.qml
+	CustomGrid.qml
 )
