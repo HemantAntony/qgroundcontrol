@@ -206,4 +206,17 @@ Rectangle {
             onClicked:      largeProgressBar._userHide = true
         }
     }
+
+    Button {
+        text:             "Logout"
+        font.family:    ScreenTools.normalFontFamily
+        anchors {
+            top:          parent.top
+            topMargin:    12
+            bottom:       parent.bottom
+            bottomMargin: 12
+            right:        parent.right
+            rightMargin:  12
+        }
+    }
 }
